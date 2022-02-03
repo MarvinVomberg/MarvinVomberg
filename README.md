@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Golang and Svelte and different js/php CMS Solutions
 - 📫 TBA
 
-I am eager to learn new framework and web languages. Currently I am looking into Go and Svelte.
+I am eager to learn new frameworks and web languages.
 My favourite tech stack is VILT (Vue.js, Inertia.js, Laravel and Tailwind CSS)
 I love building clean and DX friendly backends with state of the art standards.
 
@@ -13,6 +13,7 @@ Currently working with Directus as a headless CMS with Vue.js SPAs
 All projects are running in a docker environment when possible.
 I really want to learn more about k8s but had no real usecase yet.
 
-For smaller parts that need to be reactive I also use Alpine.js
+For smaller parts that need to be reactive I also use Alpine.js.
+Since I like the idea behind svelte, I am tinkering around with it for some while now and want to test it in a real project.
 
 Since I enjoy working on clean APIs, I want to learn Golang to write even more efficient microservices.
