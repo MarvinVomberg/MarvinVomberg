@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MarvinVomberg, I am 22 years old and tinker around with different technologies since I am 15
+- 👋 Hi, I’m @MarvinVomberg, I am 23 years old and tinker around with different technologies since I am 15
 - 👀 I’m interested in Full Stack Web Development
 - 🌱 I’m currently learning Golang and Svelte and different js/php CMS Solutions
 - 📫 TBA
