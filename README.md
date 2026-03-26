@@ -7,12 +7,8 @@ I am eager to learn new frameworks and web languages.
 My favourite tech stack is VILT (Vue.js, Inertia.js, Laravel and Tailwind CSS)
 I love building clean and DX friendly backends with state of the art technologies and standards.
 
-I worked with Pimcore for a long time in my job to build custom CMS for clients.
-Currently working only on backends with laravel.
+Using MacOS, Laravel Herd, PhpStorm and Polyscope currently.
 
-All projects are running in a docker environment for development.
-I really want to learn more about k8s but had no real usecase yet.
+Building backend and fullstack stuff @byte5 with Laravel.
 
-For smaller parts that need to be reactive I also use Alpine.js or petite Vue.
-
-I want to learn Golang so I can build even more efficient APIs.
+Also checkout my sideproject [Dungeonwright](https://dungeonwright.com)
