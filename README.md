@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @MarvinVomberg, I am 25 years old and tinker around with different technologies since I am 15
+- 👋 Hi, I’m @MarvinVomberg, I am 26 years old and tinker around with different technologies since I am 15
 - 👀 I’m interested in Full Stack Web Development
 - 🌱 I’m currently learning Golang
-- 📫 TBA
+- 📫 me@marvin-vomberg.de
 
 I am eager to learn new frameworks and web languages.
 My favourite tech stack is VILT (Vue.js, Inertia.js, Laravel and Tailwind CSS)
